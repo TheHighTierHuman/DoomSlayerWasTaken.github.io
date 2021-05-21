@@ -1,3 +1,5 @@
+<!--- Dont not edit this --->
+
 - 👋 Hi, I’m @3kh0
 - 👀 I’m interested in coding and shit
 - 🌱 I’m currently learning java and discord.js
@@ -5,9 +7,9 @@
 - 📫 How to reach me discord server
 - Dont bother me if you dont like cheese
 
-Discord link:
+Discord link: [Click me!](https://discord.gg/44yabmwbhb)
 
 <!---
 3kh0/3kh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your thing
 --->
