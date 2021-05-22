@@ -1,5 +1,5 @@
 <!--- Dont not edit this --->
-
+# Hello!
 - 👋 Hi, I’m @3kh0
 - 👀 I’m interested in coding and shit
 - 🌱 I’m currently learning java and discord.js
