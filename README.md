@@ -7,7 +7,7 @@
 - 📫 How to reach me discord server
 - Dont bother me if you dont like cheese
 
-Discord link: [Click me!](https://discord.gg/44yabmwbhb)
+Discord link: [Click me!](https://discord.gg/44yAbMWbHb)
 
 My website: [Click me NOW](https://3kh0.github.io/)
 
