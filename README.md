@@ -14,7 +14,7 @@
 
 
 
-Discord link: [Click me!](https://discord.gg/44yAbMWbHb)
+Discord link: [![Click me!](https://discord.gg/44yAbMWbHb)](https://google.com/)
 
 ![Discord](https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=flat-square)
 
