@@ -18,6 +18,8 @@
 
 Discord link: [Click me!](https://discord.gg/44yAbMWbHb)
 
+![Discord](https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=flat-square)
+
 My website: [Click me NOW](https://3kh0.github.io/)
 
 <!---
