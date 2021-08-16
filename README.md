@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord server
-
-![Discord](https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=flat-square)
 - Dont bother me if you dont like cheese
 
 
