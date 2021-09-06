@@ -1,4 +1,4 @@
-<!--- Dont not edit this --->
+`<!--- Dont not edit this --->
 # Hello!
 - 👋 Hi, I’m @3kh0
 - 👀 I’m interested in coding and sh*t
@@ -8,9 +8,9 @@
 - Dont bother me if you dont like cheese
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3kh0&langs_count=18)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3kh0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
