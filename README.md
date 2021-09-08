@@ -2,14 +2,14 @@
 I am 3kho and I can code
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3kh0&langs_count=8)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=github_dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3kh0&layout=compact&langs_count=10&theme=github_dark)<br>
 <br>
 Projects you should check out:<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone)](https://github.com/3kh0/Ad-B-Gone)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=asteroids)](https://github.com/3kh0/asteroids)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=edit-page)](https://github.com/3kh0/edit-page)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=fake-virus)](https://github.com/3kh0/fake-virus)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone&theme=github_dark)](https://github.com/3kh0/Ad-B-Gone)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=asteroids&theme=github_dark)](https://github.com/3kh0/asteroids)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=edit-page&theme=github_dark)](https://github.com/3kh0/edit-page)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=fake-virus&theme=github_dark)](https://github.com/3kh0/fake-virus)<br>
 
 Discord link: [Click me!](https://discord.gg/44yAbMWbHb)
 
