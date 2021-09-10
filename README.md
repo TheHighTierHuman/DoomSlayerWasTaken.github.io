@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm 3kh0</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
+  <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor" </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&theme=discord" alt="3kh0" /></a> </p>
 
