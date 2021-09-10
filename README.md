@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
