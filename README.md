@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm 3kh0</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
-  <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor" </p>
-
+<h4>Quick Info:</h4>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
+  <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
+  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">
+  <img src="https://img.shields.io/reddit/user-karma/combined/3kh0_reddit?logo=reddit" alt="Reddit User Karma">
+  <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
+  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
+  <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
+  <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
+  <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
+  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/3kh0?color=g&label=User%20Followers&logo=github">
+       </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&theme=discord" alt="3kh0" /></a> </p>
 
 - 🔭 I’m currently working on [my main website.](https://github.com/3kh0/3kh0.github.io)
@@ -30,8 +45,7 @@
 <a href="https://discord.gg/44yAbMWbHb" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">Stats</h3>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
