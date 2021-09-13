@@ -48,6 +48,8 @@
 
 <h3 align="left">Stats</h3>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3kh0&theme=github_dark)
+
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p>
