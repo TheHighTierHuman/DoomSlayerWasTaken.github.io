@@ -56,9 +56,13 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p>
 
-
 <br>
   </html>
+Now playing on Spotify:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&redirect=true)
+
+
 Projects you should check out:<br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone&theme=github_dark)](https://github.com/3kh0/Ad-B-Gone)
