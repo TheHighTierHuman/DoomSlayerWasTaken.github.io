@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm 3kh0</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
-
+<img alt="hello" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
+<h4>Programmer Humor:</h4>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h4>Quick Info:</h4>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
