@@ -86,4 +86,4 @@ You can click the Preview link to take a look at your thing
 
 Also for those who wanted the dragon here:
 
-![Cool dragon](https://3kh0.github.io/img_assets/drag.png)
+![Cool dragon](https://3kh0.github.io/img/drag.png)
