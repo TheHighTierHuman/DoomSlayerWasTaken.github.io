@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm 3kh0</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 <img alt="hello" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
-<h4>Programmer Humor:</h4>
+<h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<h4>Quick Info:</h4>
+<h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
   <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
@@ -25,21 +25,21 @@
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&theme=discord" alt="3kh0" /></a> </p>
 
-- 🔭 I’m currently working on [my main website.](https://github.com/3kh0/3kh0.github.io)
+- 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io).
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
 
-- 👯 I’m looking to collaborate on [making my main site better.](https://github.com/3kh0/3kh0.github.io)
+- 👯 I’m looking to collaborate on [making my website better](https://github.com/3kh0/3kh0.github.io).
 
-- 🤝 I’m looking for help with [CSS.](https://github.com/3kh0/3kh0.github.io/projects/1)
+- 🤝 I’m looking for help with [CSS](https://github.com/3kh0/3kh0.github.io/projects/1).
 
-- 👨‍💻 All of my projects are available at [https://3kh0.github.io/](https://3kh0.github.io/)
+- 👨‍💻 All of my projects are available at [https://3kh0.github.io/](https://3kh0.github.io/).
 
-- 📫 How to reach me https://discord.gg/44yAbMWbHb
+- 📫 How to reach me [my epic discord server](https://discord.gg/44yAbMWbHb).
 
-- ⚡ Fun fact **[I have a pretty cool website!](https://3kh0.github.io)**
+- ⚡ Fun fact [I have a pretty cool website](https://3kh0.github.io)!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/3kh0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3kh0_" height="30" width="40" /></a>
 <a href="https://discord.gg/44yAbMWbHb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44yAbMWbHb" height="30" width="40" /></a>
@@ -48,23 +48,23 @@
 <a href="https://discord.gg/44yAbMWbHb" target="blank"><img align="center" src="https://img.shields.io/discord/840084542332076102?label=Server&logo=discord&logoColor=white&style=for-the-badge" alt="discord"></a></p>
 
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3kh0&theme=github_dark)
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p>
-
-<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p><br>
   </html>
-Now playing on Spotify:
+
+## Spotify:
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&redirect=true)
 
 
-Projects you should check out:<br>
+## Projects you should check out:<br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone&theme=github_dark)](https://github.com/3kh0/Ad-B-Gone)
   
