@@ -50,8 +50,6 @@
 
 <h2 align="left">Stats</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3kh0&theme=github_dark)
-
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=3kh0&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="3kh0" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=3kh0&show_icons=true&theme=dark&locale=en" alt="3kh0" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=3kh0&theme=dark" alt="3kh0" /></p><br>
@@ -64,7 +62,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&redirect=true)
 
 
-## Projects you should check out:<br>
+## Cool stuff I made:<br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone&theme=github_dark)](https://github.com/3kh0/Ad-B-Gone)
   
@@ -78,6 +76,7 @@
 You can click the Preview link to take a look at your thing
 --->
 
+## Other stuff: <br>
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/3kh0/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/3kh0/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/3kh0/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
