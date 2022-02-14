@@ -57,24 +57,8 @@
 
 ## Spotify:
 
-
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=z3dlpi0cfntezy77ypqi8xass&redirect=true)
 
-
-## Cool stuff I made:<br>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=Ad-B-Gone&theme=github_dark)](https://github.com/3kh0/Ad-B-Gone)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=asteroids&theme=github_dark)](https://github.com/3kh0/asteroids)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=edit-page&theme=github_dark)](https://github.com/3kh0/edit-page)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3kh0&repo=fake-virus&theme=github_dark)](https://github.com/3kh0/fake-virus)
-<!---
-3kh0/3kh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your thing
---->
 
 ## Other stuff: <br>
 
