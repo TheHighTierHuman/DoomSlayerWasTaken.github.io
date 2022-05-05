@@ -35,7 +35,7 @@
 
 - 👨‍💻 All of my projects are available at [https://3kh0.github.io/](https://3kh0.github.io/).
 
-- 📫 How to reach me [my epic discord server](https://discord.gg/44yAbMWbHb).
+- 📫 How to reach me [my epic discord server](https://discord.gg/wv6huJAwEv).
 
 - ⚡ Fun fact [I have a pretty cool website](https://3kh0.github.io)!
 
