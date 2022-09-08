@@ -23,7 +23,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/3kh0?color=g&label=User%20Followers&logo=github">
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&theme=discord" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
 - 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io).
 
