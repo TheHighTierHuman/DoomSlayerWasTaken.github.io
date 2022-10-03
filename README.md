@@ -5,23 +5,16 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
-  <img src="https://img.shields.io/badge/OS-macOS-lightgrey/?logo=apple" alt="os">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
-  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue/?logo=sublimetext&logoColor=warning&color=orange" alt="editor2">
-  <img src="https://img.shields.io/reddit/user-karma/combined/3kh0_reddit?logo=reddit" alt="Reddit User Karma">
-  <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
+  <img src="https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" />
+  <img alt="" src="https://img.shields.io/badge/OS-Arch%20Linux-red/?logo=archlinux&color=1793d1">
+  <img alt="" src="https://img.shields.io/badge/Discord-3kh0__%231791-red/?logo=discord&color=7289DA">
+  <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
+  <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
+  <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
-  <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
-  <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
-  <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
-  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/3kh0?color=g&label=User%20Followers&logo=github">
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
