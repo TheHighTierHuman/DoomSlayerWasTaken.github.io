@@ -18,19 +18,19 @@
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
 
-- 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io).
+- 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io) and whatever else!
 
-- 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
+- 🌱 I’m currently learning [discord.js](https://discord.js.org).
 
-- 👯 I’m looking to collaborate on [making my website better](https://github.com/3kh0/3kh0.github.io).
+- 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:echo-the-coder@tuta.io)
 
-- 🤝 I’m looking for help with [CSS](https://github.com/3kh0/3kh0.github.io/projects/1).
+- 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
 
-- 👨‍💻 All of my projects are available at [https://3kh0.github.io/](https://3kh0.github.io/).
+- 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
-- 📫 How to reach me [my epic discord server](https://discord.gg/wv6huJAwEv).
+- 📫 You can ping me in [my epic discord server](https://discord.gg/wv6huJAwEv) or hit me up at my [email](mailto:echo-the-coder@tuta.io).
 
-- ⚡ Fun fact [I have a pretty cool website](https://3kh0.github.io)!
+- ⚡ Fun fact [hooooooooo](https://hooooooooo.com/)!
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
